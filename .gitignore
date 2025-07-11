@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+
+# Pastas do Expo
+.expo/
+.expo-shared/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente (credenciais, chaves etc.)
+.env
+firebaseConfig.js
+
+# Pastas de build (caso use builds EAS futuramente)
+build/
+dist/
