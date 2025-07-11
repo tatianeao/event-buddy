@@ -30,17 +30,17 @@ Aplicação mobile desenvolvida com **React Native** e **Expo**, que permite aos
 
 ## 📸 Capturas de Tela
 
-### Tela de Login
-![alt text](./assets/Login.jpeg)
+<h4>Tela de Login</h4>
+<img src="./assets/Login.jpeg" alt="Tela de Login" width="200"/>
 
-### Tela Inicial
-![alt text](./assets/Inicio.jpeg)
+<h4>Tela Inicial</h4>
+<img src="./assets/Inicio.jpeg" alt="Tela Inicial" width="200"/>
 
-### Tela de Favoritos
-![alt text](./assets/Favoritos.jpeg)
+<h4>Tela de Favoritos</h4>
+<img src="./assets/Favoritos.jpeg" alt="Tela de Favoritos" width="200"/>
 
-### Tela do Perfil
-![alt text](./assets/Perfil.jpeg)
+<h4>Tela do Perfil</h4>
+<img src="./assets/Perfil.jpeg" alt="Tela do Perfil" width="200"/>
 
 
 ## 👩‍💻 Desenvolvedora
