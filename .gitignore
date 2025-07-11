@@ -16,7 +16,6 @@ Thumbs.db
 
 # Arquivos de ambiente (credenciais, chaves etc.)
 .env
-firebaseConfig.js
 
 # Pastas de build (caso use builds EAS futuramente)
 build/
